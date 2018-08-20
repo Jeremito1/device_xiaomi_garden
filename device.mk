@@ -149,6 +149,7 @@ PRODUCT_PACKAGES += \
 
 # SystemUI
 PRODUCT_PACKAGES += \
+    NoCutoutOverlay \
     ScreenRecordOverlay \
     FPSInfoOverlay
 
