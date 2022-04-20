@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/havoc_garden.mk
+   $(LOCAL_DIR)/lineage_garden.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_garden-userdebug \
-    havoc_garden-eng \
-    havoc_garden-user
+    lineage_garden-userdebug \
+    lineage_garden-eng \
+    lineage_garden-user
